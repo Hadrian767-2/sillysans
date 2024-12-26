@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Someone3.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="SomeoneUP0000" x="5136" y="0" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneUP0001" x="2568" y="2172" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneUP0002" x="3852" y="724" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneUP0003" x="3852" y="3620" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneUP0004" x="0" y="3620" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneUP0005" x="1284" y="2896" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneRIGHT0000" x="0" y="1448" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneRIGHT0001" x="0" y="4344" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneRIGHT0002" x="1284" y="724" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneRIGHT0003" x="3852" y="1448" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneRIGHT0004" x="2568" y="0" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneRIGHT0005" x="0" y="0" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneDOWN0000" x="5136" y="724" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneDOWN0001" x="2568" y="2896" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneDOWN0002" x="0" y="2896" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneDOWN0003" x="1284" y="3620" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneDOWN0004" x="3852" y="2896" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneDOWN0005" x="1284" y="4344" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneDOWN0006" x="0" y="2172" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneLEFT0000" x="2568" y="1448" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneLEFT0001" x="1284" y="0" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneLEFT0002" x="3852" y="2172" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneLEFT0003" x="0" y="724" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneIDLE0000" x="1284" y="1448" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneIDLE0001" x="2568" y="724" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneIDLE0002" x="2568" y="3620" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneIDLE0003" x="2568" y="4344" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneIDLE0004" x="1284" y="2172" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneIDLE0005" x="3852" y="4344" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="SomeoneIDLE0006" x="3852" y="0" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>
